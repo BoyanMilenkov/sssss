@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQasPohB0lGeFwjAQU92b0h7lCernBWI2ibmDAigNV1R0cTTir1AqS75LoT4ELO6bgoUC8AY0FQt7fHiekvN7A==",
+  "success": true,
+  "projectFilePath": "E:\\EntryTest\\Bank\\Bank\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
